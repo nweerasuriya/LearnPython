@@ -32,14 +32,13 @@
 - **Time Series**
 
 ## Setting up
-- **Getting Started**
-  - [ ] Anaconda
-  - [ ] VSCode
-    - [ ] Extensions
-    - [ ] Snippets
-  - [ ] GitHub
-    - [ ] Cloning repos
-    - [ ] Branches
+- **Anaconda**
+- **VSCode**
+- **Extensions**
+  - [ ] Snippets
+- **GitHub**
+  - [ ] Cloning repos
+  - [ ] Branches
 
 ## Code Quality
 - **Coding Standards**
