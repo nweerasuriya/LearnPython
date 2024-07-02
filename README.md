@@ -1,4 +1,5 @@
 # LearnPython
+Notes on learning Python from basics to machine learning
 
 ## Core Python
 - **Introduction**
